@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGBot.Presentation_Layer", "TGBot.Presentation_Layer\TGBot.Presentation_Layer.csproj", "{00BC8A87-F1D5-4377-8CD7-AB45E9F858BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGBot.Data_Layer", "TGBot.Data_Layer\TGBot.Data_Layer.csproj", "{A40D0DB9-F896-4A0B-9D57-49E516A43F24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGBot.Business_Layer", "TGBot.Business_Layer\TGBot.Business_Layer.csproj", "{CE68ED1C-1DD0-4FE6-9440-F33B27582D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00BC8A87-F1D5-4377-8CD7-AB45E9F858BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00BC8A87-F1D5-4377-8CD7-AB45E9F858BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00BC8A87-F1D5-4377-8CD7-AB45E9F858BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00BC8A87-F1D5-4377-8CD7-AB45E9F858BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A40D0DB9-F896-4A0B-9D57-49E516A43F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40D0DB9-F896-4A0B-9D57-49E516A43F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40D0DB9-F896-4A0B-9D57-49E516A43F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40D0DB9-F896-4A0B-9D57-49E516A43F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE68ED1C-1DD0-4FE6-9440-F33B27582D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE68ED1C-1DD0-4FE6-9440-F33B27582D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE68ED1C-1DD0-4FE6-9440-F33B27582D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE68ED1C-1DD0-4FE6-9440-F33B27582D56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
